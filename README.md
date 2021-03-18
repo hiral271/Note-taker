@@ -25,4 +25,4 @@
 ![images.](https://github.com/hiral271/Note-taker/blob/main/images/Image-2021-03-18-at-7.12.33-PM.jpeg)
 
 
-![images.]()
+![images.](https://github.com/hiral271/Note-taker/blob/main/images/Image-2021-03-18-at-7.13.37-PM.jpeg)
