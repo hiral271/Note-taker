@@ -22,3 +22,7 @@
 ## The following images show the web application's appearance and functionality : 
 
 
+![images.](images\Image-2021-03-18-at-7.12.33-PM.jpeg)
+
+
+![images.](images\Image-2021-03-18-at-7.13.37-PM.jpeg)
