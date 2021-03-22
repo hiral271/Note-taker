@@ -29,4 +29,4 @@
 
 
 ## here is heroku link 
-![heroku](https://note-taker-007.herokuapp.com/)
+https://note-taker-007.herokuapp.com/
